@@ -6,7 +6,7 @@ import PostPage from "./pages/PostPage"
 import Header from "./components/Header"
 function App() {
   
-// first commit
+
 
   return (
     <Container maxW={"620px"}>
