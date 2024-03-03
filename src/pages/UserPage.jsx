@@ -1,10 +1,14 @@
+
+import UserHeader from "../components/UserHeader"
+import UserPost from "../components/UserPost"
 function UserPage() {
   
 
     return (
-      <>
-        <Button>Hi</Button>
-      </>
+     <>
+    <UserHeader/>
+    <UserPost/>
+     </>
     )
   }
   
