@@ -3,7 +3,7 @@ function PostPage() {
 
     return (
       <>
-        <Button>Hi</Button>
+        hi
       </>
     )
   }
